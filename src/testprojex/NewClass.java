@@ -11,4 +11,5 @@ package testprojex;
  */
 public class NewClass {
     //more code here
+    //adding this comment :)
 }
